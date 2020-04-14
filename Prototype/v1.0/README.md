@@ -1,4 +1,4 @@
-# v1.0 SmartTranslation
+# v1.0 SmartTranslation 백업
 
 1. 음성 인식
 2. 음성 텍스트 변환 추가
